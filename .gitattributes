@@ -1,2 +1,2 @@
-**/* diff=folder
-*.gpg diff=gpg
+* diff=folder
+**/*.gpg diff=gpg
